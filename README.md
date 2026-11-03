@@ -12,7 +12,26 @@
 
 ## 👋 Hello, I'm Saba Firdose
 
-* 🎓 **BCA Student** at Adichunchanagiri University / BGS First Grade College.
+👋 Hello!
+
+💻 BCA Student • Frontend & Web Developer • Python & AI Enthusiast
+
+I am a Bachelor of Computer Applications (BCA) student passionate about technology, software development, web development, and artificial intelligence.
+
+I enjoy transforming ideas into practical applications while continuously improving my programming and problem-solving skills.
+
+I'm currently focused on building projects that help me gain real-world development experience and prepare for a career in the technology industry.
+
+---
+
+🎓 Education
+
+Bachelor of Computer Applications — BCA  
+*Currently Pursuing*
+
+* 🎓 Degree: Bachelor of Computer Applications (BCA)
+* 💻 Focus: Software Development • Web Development • Databases • AI/ML
+  * 🎓 **BCA Student** at Adichunchanagiri University / BGS First Grade College.
 * 🐍 **Python & AI Enthusiast** building interactive applications and software solutions.
 * 🚀 **Technical Intern at CodeAlpha**, focused on expanding my programming portfolio and hands-on software development.
 * 🎨 **Creative Thinker** who enjoys drawing, sketching, and writing thoughtful quotes.
